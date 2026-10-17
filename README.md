@@ -1,57 +1,113 @@
-# Happet Pet Store Testing Suite
+# 🐾 Happet Pet Store Testing Suite
 
-## Project Overview
-This project focuses on manual testing of a pet store e-commerce website to evaluate its functionality, usability, and overall user experience.
+**Manual Testing | E-commerce Website | TestRail | Bug Reporting**
+
+## 📌 Project Overview
+
+This project focuses on manual testing of the [Happet Pet Store](https://happet.net/) e-commerce website to evaluate its functionality, usability, navigation, and overall user experience.
 
 **Project Status:** Planned / In Progress
 
-## Objectives
-- Understand and analyze website requirements.
-- Prepare a comprehensive Test Plan.
-- Design positive and negative Test Cases.
-- Test key e-commerce functionalities.
-- Document and report defects clearly.
-- Track test cases and execution using TestRail.
+## 🎯 Project Objectives
 
-## Scope of Testing
-The planned testing scope includes:
-- Homepage and navigation
-- Product listings and product details
-- Search and filtering
-- Shopping cart functionality
-- User registration and login
-- Checkout workflow
-- Form validation and error handling
-- Basic usability testing
+- Verify key website functionalities.
+- Evaluate navigation and user experience.
+- Design and organize test scenarios and test cases.
+- Document test execution results.
+- Report and track defects with clear reproduction steps.
+- Practice a structured manual testing workflow.
 
-*The final scope will depend on the functionalities available on the target website.*
+## 🧪 Testing Scope
 
-## Testing Deliverables
+| Area | Testing Focus |
+|---|---|
+| Homepage | Layout, banners, and navigation |
+| Product Navigation | Dog and cat product categories |
+| Brands | Brands listing and navigation |
+| Today's Deals | Product listings and displayed information |
+| Login | Login form and validation |
+| Usability | Layout, consistency, and user experience |
+
+## 🖼️ Website Screenshots
+
+### 1. Homepage
+
+![Happet Pet Store Homepage](Images/01-homepage-cat-litter-banner.png)
+
+### 2. Dog Supplies Navigation
+
+![Dog Supplies Navigation](Images/02-dog-supplies-navigation.png)
+
+### 3. Cat Supplies Navigation
+
+![Cat Supplies Navigation](Images/03-cat-supplies-navigation.png)
+
+### 4. Brands Listing Page
+
+![Brands Listing Page](Images/04-brands-listing-page.png)
+
+### 5. Today's Deals
+
+![Today's Deals](Images/05-todays-deals-product-list.png)
+
+### 6. Login Modal
+
+![Login Modal](Images/06-login-modal.png)
+
+## 📋 Planned Deliverables
+
 - Test Plan
 - Test Scenarios
 - Test Cases
-- Test Execution Results
-- Bug Reports with screenshots and reproduction steps
+- Test Execution Report
+- Bug Reports
 - Test Summary Report
 
-## Tools
-- TestRail
-- GitHub
-- Web Browser / Developer Tools
+## 🛠️ Tools & Technologies
 
-## Project Structure
+- **Test Management:** TestRail
+- **Testing Type:** Manual Testing
+- **Documentation:** Markdown / GitHub
+- **Defect Reporting:** Structured Bug Reports
+- **Version Control:** Git & GitHub
+
+## 📁 Project Structure
+
 ```text
 happet-pet-store-manual-testing/
-├── README.md
-├── Test-Plan/
-├── Test-Cases/
-├── Bug-Reports/
-├── Test-Execution/
-└── Test-Summary-Report/
+│
+├── Images/
+│   ├── 01-homepage-cat-litter-banner.png
+│   ├── 02-dog-supplies-navigation.png
+│   ├── 03-cat-supplies-navigation.png
+│   ├── 04-brands-listing-page.png
+│   ├── 05-todays-deals-product-list.png
+│   └── 06-login-modal.png
+│
+└── README.md
 ```
 
-## Disclaimer
-This is a planned testing project. Test cases, execution results, and bug reports will be added as testing progresses. No defects or test results are claimed until they have been verified.
+## 📈 Project Progress
 
-## Author
-Muhammed Elgarf
+- [x] Repository created
+- [x] Website screenshots collected
+- [x] Project documentation initiated
+- [ ] Test scenarios designed
+- [ ] Test cases documented
+- [ ] Test execution completed
+- [ ] Defects documented and verified
+- [ ] Final test summary prepared
+
+## ⚠️ Disclaimer
+
+This is an independent portfolio project for learning and demonstrating manual software testing skills. The testing activities, execution results, and defects will be documented based on actual verification. No unverified test results or defects are claimed.
+
+## 👨‍💻 Author
+
+**Muhammed Raafat**
+
+- GitHub: [muhammed-elgarf](https://github.com/muhammed-elgarf)
+
+---
+
+*Software Testing Portfolio Project*
